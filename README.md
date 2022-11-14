@@ -12,4 +12,4 @@ Watch tutorial on Youtube
 
 ## Another Edit
 
-1. Open index html in your browser
+2. Open index html in your browser
